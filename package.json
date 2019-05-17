@@ -1,7 +1,7 @@
 {
   "name": "htmlcoinjs-ethjs-abi",
   "version": "1.0.4",
-  "description": "Just the Ethereum encoding and decoding methods from the ethers-io-wallet.",
+  "description": "Htmlcoin Encoding and Decoding Methods",
   "main": "src/index.js",
   "files": [
     "dist",
