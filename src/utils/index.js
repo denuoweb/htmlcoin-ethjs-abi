@@ -51,8 +51,6 @@ function toHexString(data) {
   return toHexStringPrefixed(data);
 }
 
-
-
 /**
  *
  * @param {Object} opts ABI encoding options
